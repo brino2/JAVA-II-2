@@ -1,0 +1,2 @@
+rootProject.name = "primeiro" //Onde está o main
+include("app") //Onde está o diretório para ir até o main
